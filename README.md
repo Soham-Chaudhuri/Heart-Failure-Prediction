@@ -56,10 +56,10 @@ Exploratory data analysis (EDA) is performed to understand the distribution of t
 ## Model Training and Evaluation
 Several machine learning models are trained and evaluated:
 
--Logistic Regression
--Random Forest Classifier
--Gradient Boosting Classifier
--K-Nearest Neighbors (KNN) Classifier
+- Logistic Regression
+- Random Forest Classifier
+- Gradient Boosting Classifier
+- K-Nearest Neighbors (KNN) Classifier
 
 
 The performance of these models is compared using metrics such as accuracy, precision, recall, and F1-score.
