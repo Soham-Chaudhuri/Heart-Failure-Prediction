@@ -53,6 +53,11 @@ The data preprocessing steps include handling missing values and scaling numeric
 ## Exploratory Data Analysis
 Exploratory data analysis (EDA) is performed to understand the distribution of the data and the relationships between different features. Visualizations are created using matplotlib and seaborn.
 
+![Diabetes Mortality Pie Chart](graphs/13.png)
+![Smoking Mortality Pie Chart](graphs/12.png)
+![Correlation Heatmap](graphs/10.png)
+![Age v/s Death](graphs/8.png)
+
 ## Model Training and Evaluation
 Several machine learning models are trained and evaluated:
 
