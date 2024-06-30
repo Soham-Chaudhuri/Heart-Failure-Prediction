@@ -4,7 +4,7 @@ This repository contains a Jupyter notebook for predicting heart failure using v
 
 ## Dataset
 
-The dataset contains 13 features and 300 records. The features include clinical parameters that are relevant for heart failure prediction.
+The dataset contains 13 features and 300 records which are imbalance so used random oversampler to decrease the imbalance. The features include clinical parameters that are relevant for heart failure prediction.
 
 ## Project Structure
 
